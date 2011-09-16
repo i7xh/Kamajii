@@ -1,0 +1,6 @@
+[submodule "lib/celery"]
+	path = lib/celery
+	url = https://github.com/ask/celery.git
+[submodule "lib/kombu"]
+	path = lib/kombu
+	url = https://github.com/ask/kombu.git
