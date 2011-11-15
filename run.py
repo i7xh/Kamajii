@@ -15,6 +15,7 @@ You can also specify the app to use with celeryd::
     $ celeryd -l info --app=myapp.celery
 
 """
+
 import sys
 sys.path.insert(0,'lib')
 sys.path.insert(0, 'lib/celery')
